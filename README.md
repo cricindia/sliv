@@ -81,12 +81,4 @@ Created with ❤️ by <b>cricindia 95</b>
 <sub>This project is for educational purposes only. All content belongs to respective copyright owners.</sub>
 </div>
 
-<script>
-function copyToClipboard(id) {
-    const text = document.getElementById(id).innerText;
-    navigator.clipboard.writeText(text).then(() => {
-        alert("Copied!");
-    });
-}
-</script>
 
